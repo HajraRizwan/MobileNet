@@ -1,4 +1,4 @@
-### Title: "MobileNet - Lightweight Deep Learning Model for Mobile Devices"
+# Title: "MobileNet - Lightweight Deep Learning Model for Mobile Devices"
 
 ### Sections:
   - ## Table of Contents
